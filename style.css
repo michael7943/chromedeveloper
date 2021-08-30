@@ -11,3 +11,15 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+
+  p.hometown { 
+    background: yellow;
+  }
+
+  div.myDiv {
+    background: green;
+  }
+
+  p[id=my-Address]{
+    background: red;
+  }
